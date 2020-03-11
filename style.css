@@ -1,0 +1,15 @@
+body{
+    background-color: sienna;
+}
+
+.navbar-brand {
+    color: seagreen;
+    font-size: 60px;
+    font-weight: 800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.d-flex {
+    color: floralwhite;
+}

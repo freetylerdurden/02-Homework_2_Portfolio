@@ -1,0 +1,31 @@
+.card-img-bottom{
+    border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+ margin: auto;
+ border: 50px;
+  width: 700px;
+  height: 500px;
+}
+
+h1 {
+    color: teal;
+    font-weight: 800;
+    font-style: oblique;
+}
+
+p {
+    color: darkslategray;
+}
+
+.card-body {
+    background-color: deeppink;
+}
+
+.d-flex {
+    color: floralwhite;
+}
+
+body {
+    background-image: url(https://media1.giphy.com/media/bUJRuEhZYjiko/200.webp?cid=ecf05e47319816118c6807188d83efc8f2150760d013fe36&rid=200.webp);
+}
